@@ -1,1 +1,1 @@
-# Teory-of-testing
+# Testing-theory
